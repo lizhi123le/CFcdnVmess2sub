@@ -26,7 +26,7 @@ let addressesapi = [
         'https://text2kv-4h2.pages.dev/ip.txt?token=lz753426159',
         'https://text2kv-4h2.pages.dev/us.txt?token=lz753426159',
         'https://text2kv-4h2.pages.dev/ipv6.txt?token=lz753426159//可参考内容格式 自行搭建。,
-	'https://raw.githubusercontent.com/cmliu/WorkerVless2sub/main/addressesipv6api.txt', //IPv6优选内容格式 自行搭建。
+	'https://raw.githubusercontent.com/cmliu/WorkerVless2sub/main/addressesipv6api.txt',
 ];
 
 // 设置优选地址，不带端口号默认80，noTLS订阅生成
