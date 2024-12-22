@@ -11,8 +11,22 @@ let addresses = [
 
 // 设置优选地址api接口
 let addressesapi = [
-	'https://raw.githubusercontent.com/cmliu/WorkerVless2sub/main/addressesapi.txt', //可参考内容格式 自行搭建。
-	//'https://raw.githubusercontent.com/cmliu/WorkerVless2sub/main/addressesipv6api.txt', //IPv6优选内容格式 自行搭建。
+	'https://raw.githubusercontent.com/cmliu/WorkerVless2sub/main/addressesapi.txt',
+	'https://text2kv-4h2.pages.dev/ym.txt?token=lz753426159',
+        'https://raw.githubusercontent.com/cmliu/WorkerVless2sub/main/addressesapi.txt',
+        'https://addressesapi.090227.xyz/CloudFlareYes',
+        'https://addressesapi.090227.xyz/ct?id=电信优选',
+        'https://raw.githubusercontent.com/ymyuuu/IPDB/main/bestcf.txt?id=最佳优选',
+        'https://raw.githubusercontent.com/ymyuuu/IPDB/main/bestproxy.txt?id=最优代理IP',
+        'https://addressesapi.090227.xyz/cmcc?id=移动优选',
+        'https://text2kv-4h2.pages.dev/sg.txt?token=lz753426159',
+        'https://text2kv-4h2.pages.dev/jp.txt?token=lz753426159',
+        'https://text2kv-4h2.pages.dev/hk.txt?token=lz753426159',
+        'https://raw.githubusercontent.com/2ri4eUI/CFW_Worker_Sub/main/ips.txt?id=🇹🇷',
+        'https://text2kv-4h2.pages.dev/ip.txt?token=lz753426159',
+        'https://text2kv-4h2.pages.dev/us.txt?token=lz753426159',
+        'https://text2kv-4h2.pages.dev/ipv6.txt?token=lz753426159//可参考内容格式 自行搭建。,
+	'https://raw.githubusercontent.com/cmliu/WorkerVless2sub/main/addressesipv6api.txt', //IPv6优选内容格式 自行搭建。
 ];
 
 // 设置优选地址，不带端口号默认80，noTLS订阅生成
